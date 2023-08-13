@@ -1,0 +1,19 @@
+.main-body {
+  height: 100vh;
+  width: 100vw;
+  background-color: #ff8966;
+  border-radius: 30px;
+  display: flex;
+}
+
+/*
+
+Color replacements 
+E99D72 -> ff8966
+1e2a3e -> 08273d
+f8d9c0 -> ffefd3
+
+active button color
+fff
+
+*/
